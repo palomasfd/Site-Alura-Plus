@@ -1,3 +1,10 @@
-body{
-    background-color: aquamarine;
+.cabecalho {
+    background-color: rgb(30, 233, 47);
+    display: flex;
 }
+
+
+.cabecalho-imagem{
+    width: 5%;
+}
+
