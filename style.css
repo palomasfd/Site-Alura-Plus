@@ -1,10 +1,11 @@
-.cabecalho {
-    background-color: rgb(30, 233, 47);
-    display: flex;
+:root{
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #c0c0c0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030c;
 }
 
-
-.cabecalho-imagem{
-    width: 5%;
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
 }
-
