@@ -85,3 +85,36 @@ body{
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 4.5em;
+}
+
+.terceiro__imagem {
+    width: 80%;
+}
+
+.terceiro {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.recado__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.recado__texto {
+    color: var(--cinza-secundario);
+}
+
+.container__recado {
+    padding: 5em;
+}
